@@ -2,7 +2,8 @@
   "meta": {
     "username": "kobusb",
     "repositoryName": "blog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "kobus.brummer.co"
   },
   "theme": {
     "name": "Casper"
