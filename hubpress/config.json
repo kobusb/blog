@@ -5,7 +5,13 @@
     "branch": "gh-pages",
     "cname": "kobus.brummer.co"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "kobus@brummer.co",
+    "twitter": "https://twitter.com/kobusb",
+    "github": "kobusb"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
